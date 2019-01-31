@@ -1,0 +1,18 @@
+{
+    "mouseover": [
+        {
+            "selector": ".title a",
+            "text": ["要看看 {text} 么？"]
+        },
+        {
+            "selector": ".searchbox",
+            "text": ["在找什么东西呢，需要帮忙吗？"]
+        }
+    ],
+    "click": [
+        {
+            "selector": "#landlord #live2d",
+            "text": ["写网页很辛苦的,赞助我一杯咖啡吧","#include &lt;bits/stdc++.h&gt;！","php是世界上最好的语言~我认为","谢钊杰同志经常脱内裤说话","作者大大QQ:1795498748","我的爸爸是BobH!","我爱Pages~"]
+        }
+    ]
+}
